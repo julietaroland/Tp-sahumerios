@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-color:black;
+    color:white;
+}
+ p {
+
+    color:black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+ font-family: 'Times New Roman', Times, serif;
+ color:blue
+}
